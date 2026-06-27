@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8.0",
+  "package": "com.pulsemeteor.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinMinecraftClient",
+    "MixinClientPlayerEntity",
+    "MixinClientPlayerInteractionManager",
+    "MixinInGameHud",
+    "MixinWorldRenderer",
+    "MixinEntityRenderDispatcher",
+    "MixinLivingEntityRenderer",
+    "MixinItemRenderer",
+    "MixinGameRenderer",
+    "MixinMouse",
+    "MixinKeyboard",
+    "MixinPlayerEntityRenderer",
+    "MixinHeldItemRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

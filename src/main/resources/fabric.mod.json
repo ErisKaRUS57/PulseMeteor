@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "pulsemeteor",
+  "version": "${version}",
+  "name": "Pulse Meteor",
+  "description": "A premium PvP client-side mod combining Pulse Visuals aesthetics with Meteor Client's modular utility system.",
+  "authors": [
+    "PulseMeteor Team"
+  ],
+  "contact": {
+    "homepage": "https://github.com/pulsemeteor",
+    "sources": "https://github.com/pulsemeteor/pulsemeteor"
+  },
+  "license": "MIT",
+  "icon": "assets/pulsemeteor/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.pulsemeteor.PulseMeteor"
+    ],
+    "client": [
+      "com.pulsemeteor.PulseMeteorClient"
+    ],
+    "modmenu": [
+      "com.pulsemeteor.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "mixins.pulsemeteor.json"
+  ],
+  "accessWidener": "pulsemeteor.accesswidener",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "fabric-api": "*",
+    "java": ">=21"
+  },
+  "suggests": {
+    "sodium": ">=0.6.0",
+    "lithium": ">=0.12.0"
+  },
+  "custom": {
+    "modmenu:client": true
+  }
+}

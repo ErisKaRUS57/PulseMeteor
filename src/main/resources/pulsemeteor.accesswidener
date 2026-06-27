@@ -1,0 +1,37 @@
+accessWidener v2 named
+
+# Minecraft access widenings for mod functionality
+# Entity
+accessible class net/minecraft/entity/Entity
+accessible field net/minecraft/entity/Entity velocity Lnet/minecraft/util/math/Vec3d;
+accessible field net/minecraft/entity/Entity world Lnet/minecraft/world/World;
+accessible field net/minecraft/entity/Entity onGround Z
+
+# PlayerEntity
+accessible class net/minecraft/entity/player/PlayerEntity
+accessible method net/minecraft/entity/player/PlayerEntity getAbilities ()Lnet/minecraft/entity/player/PlayerAbilities;
+
+# ClientPlayerEntity
+accessible class net/minecraft/client/network/ClientPlayerEntity
+accessible field net/minecraft/client/network/ClientPlayerEntity tickingNbt Z
+
+# ClientPlayerInteractionManager
+accessible class net/minecraft/client/network/ClientPlayerInteractionManager
+accessible field net/minecraft/client/network/ClientPlayerInteractionManager blockBreakingCooldown I
+
+# WorldRenderer
+accessible class net/minecraft/client/render/WorldRenderer
+
+# InGameHud
+accessible class net/minecraft/client/gui/hud/InGameHud
+accessible method net/minecraft/client/gui/hud/InGameHud render (Lnet/minecraft/client/gui/DrawContext;F)V
+
+# MinecraftClient
+accessible class net/minecraft/client/MinecraftClient
+accessible field net/minecraft/client/MinecraftClient currentScreen Lnet/minecraft/client/gui/screen/Screen;
+
+# Mouse
+accessible class net/minecraft/client/Mouse
+
+# Keyboard
+accessible class net/minecraft/client/Keyboard

@@ -1,0 +1,84 @@
+{
+  "mod.pulsemeteor.name": "Pulse Meteor",
+  "mod.pulsemeteor.description": "Premium PvP client-side mod with visual enhancements and utility modules",
+
+  "key.category.pulsemeteor": "Pulse Meteor",
+  "key.pulsemeteor.clickgui": "Open Click GUI",
+  "key.pulsemeteor.hudeditor": "Open HUD Editor",
+  "key.pulsemeteor.togglemodule": "Toggle Last Module",
+
+  "module.pulsemeteor.killaura": "KillAura",
+  "module.pulsemeteor.killaura.description": "Automatically attacks nearest entity",
+
+  "module.pulsemeteor.crystalaura": "CrystalAura",
+  "module.pulsemeteor.crystalaura.description": "Auto place and break end crystals",
+
+  "module.pulsemeteor.autototem": "AutoTotem",
+  "module.pulsemeteor.autototem.description": "Auto-equip totem of undying",
+
+  "module.pulsemeteor.bowaim": "BowAim",
+  "module.pulsemeteor.bowaim.description": "Auto-aim bow at nearest target",
+
+  "module.pulsemeteor.triggerbot": "TriggerBot",
+  "module.pulsemeteor.triggerbot.description": "Attack when crosshair is over entity",
+
+  "module.pulsemeteor.flight": "Flight",
+  "module.pulsemeteor.flight.description": "Creative-style flight",
+
+  "module.pulsemeteor.speed": "Speed",
+  "module.pulsemeteor.speed.description": "Increase movement speed",
+
+  "module.pulsemeteor.step": "Step",
+  "module.pulsemeteor.step.description": "Step up full blocks",
+
+  "module.pulsemeteor.nofall": "NoFall",
+  "module.pulsemeteor.nofall.description": "Negate fall damage",
+
+  "module.pulsemeteor.jesus": "Jesus",
+  "module.pulsemeteor.jesus.description": "Walk on water/lava",
+
+  "module.pulsemeteor.scaffold": "Scaffold",
+  "module.pulsemeteor.scaffold.description": "Auto-place blocks beneath you",
+
+  "module.pulsemeteor.autoeat": "AutoEat",
+  "module.pulsemeteor.autoeat.description": "Auto-eat when hungry",
+
+  "module.pulsemeteor.automine": "AutoMine",
+  "module.pulsemeteor.automine.description": "Auto-mine targeted blocks",
+
+  "module.pulsemeteor.autofarm": "AutoFarm",
+  "module.pulsemeteor.autofarm.description": "Auto-harvest and replant crops",
+
+  "module.pulsemeteor.chestaura": "ChestAura",
+  "module.pulsemeteor.chestaura.description": "Auto-open nearby chests",
+
+  "module.pulsemeteor.esp": "ESP",
+  "module.pulsemeteor.esp.description": "Highlight entities through walls",
+
+  "module.pulsemeteor.xray": "XRay",
+  "module.pulsemeteor.xray.description": "Show ores through stone",
+
+  "module.pulsemeteor.tracers": "Tracers",
+  "module.pulsemeteor.tracers.description": "Draw lines to entities",
+
+  "module.pulsemeteor.chams": "Chams",
+  "module.pulsemeteor.chams.description": "Render entities through walls",
+
+  "module.pulsemeteor.storageesp": "StorageESP",
+  "module.pulsemeteor.storageesp.description": "Highlight storage containers",
+
+  "module.pulsemeteor.freecam": "FreeCam",
+  "module.pulsemeteor.freecam.description": "Detach camera from player",
+
+  "module.pulsemeteor.tunnel": "Tunnel",
+  "module.pulsemeteor.tunnel.description": "Auto-mine tunnels",
+
+  "module.pulsemeteor.autoreconnect": "AutoReconnect",
+  "module.pulsemeteor.autoreconnect.description": "Auto-reconnect on disconnect",
+
+  "module.pulsemeteor.antiafk": "AntiAFK",
+  "module.pulsemeteor.antiafk.description": "Prevent AFK kick",
+
+  "module.pulsemeteor.inventorycleaner": "Inventory Cleaner",
+  "module.pulsemeteor.inventorycleaner.description": "Auto-clean inventory"
+}

@@ -1,0 +1,210 @@
+{
+  "KillAura": {
+    "enabled": false,
+    "settings": {
+      "Range": 4.2,
+      "CPS": 8.0,
+      "Target Mode": "Single",
+      "Only Players": false,
+      "No Friends": true
+    }
+  },
+  "CrystalAura": {
+    "enabled": false,
+    "settings": {
+      "Place Range": 4.5,
+      "Break Range": 4.5,
+      "Auto Place": true,
+      "Auto Break": true,
+      "Delay": 2
+    }
+  },
+  "AutoTotem": {
+    "enabled": false,
+    "settings": {
+      "Prefer Offhand": true,
+      "Health Threshold": 20.0,
+      "Check Health": false
+    }
+  },
+  "BowAim": {
+    "enabled": false,
+    "settings": {
+      "Range": 50.0,
+      "Silent Aim": true,
+      "Predict Movement": true
+    }
+  },
+  "TriggerBot": {
+    "enabled": false,
+    "settings": {
+      "Delay": 2,
+      "Only Players": true,
+      "Require Sword": false
+    }
+  },
+  "Flight": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Creative",
+      "Speed": 1.0
+    }
+  },
+  "Speed": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Strafe",
+      "Speed": 1.5
+    }
+  },
+  "Step": {
+    "enabled": false,
+    "settings": {
+      "Height": 1.0
+    }
+  },
+  "NoFall": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Packet"
+    }
+  },
+  "Jesus": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Solid"
+    }
+  },
+  "Scaffold": {
+    "enabled": false,
+    "settings": {
+      "Tower": true,
+      "Swing": true,
+      "Place Delay": 0,
+      "Block Mode": "Normal"
+    }
+  },
+  "AutoEat": {
+    "enabled": false,
+    "settings": {
+      "Hunger Threshold": 10,
+      "Prefer Gapples": false
+    }
+  },
+  "AutoMine": {
+    "enabled": false,
+    "settings": {
+      "Range": 4.5,
+      "Auto Swing": true,
+      "Instant": false
+    }
+  },
+  "AutoFarm": {
+    "enabled": false,
+    "settings": {
+      "Range": 4.0,
+      "Harvest": true,
+      "Replant": true,
+      "Auto Tool": true
+    }
+  },
+  "ChestAura": {
+    "enabled": false,
+    "settings": {
+      "Range": 4.0,
+      "Auto Steal": true,
+      "Silent Open": false
+    }
+  },
+  "ESP": {
+    "enabled": false,
+    "settings": {
+      "Mode": "Box",
+      "Players": true,
+      "Mobs": false,
+      "Items": false,
+      "Red": 0,
+      "Green": 255,
+      "Blue": 0,
+      "Alpha": 128
+    }
+  },
+  "XRay": {
+    "enabled": false,
+    "settings": {
+      "Show Stone": false,
+      "Show Dirt": false
+    }
+  },
+  "Tracers": {
+    "enabled": false,
+    "settings": {
+      "Players": true,
+      "Mobs": false,
+      "Line Width": 2.0
+    }
+  },
+  "Chams": {
+    "enabled": false,
+    "settings": {
+      "Players": true,
+      "Mobs": false,
+      "Red": 0,
+      "Green": 100,
+      "Blue": 255,
+      "Alpha": 150
+    }
+  },
+  "StorageESP": {
+    "enabled": false,
+    "settings": {
+      "Chests": true,
+      "Shulkers": true,
+      "Barrels": true,
+      "Ender Chests": true,
+      "Furnaces": false,
+      "Alpha": 100
+    }
+  },
+  "FreeCam": {
+    "enabled": false,
+    "settings": {
+      "Speed": 1.0,
+      "Render Player": true
+    }
+  },
+  "Tunnel": {
+    "enabled": false,
+    "settings": {
+      "Height": 2,
+      "Width": 1,
+      "Distance": 50,
+      "Auto Walk": true
+    }
+  },
+  "AutoReconnect": {
+    "enabled": false,
+    "settings": {
+      "Delay": 3,
+      "Repeat": true
+    }
+  },
+  "AntiAFK": {
+    "enabled": false,
+    "settings": {
+      "Interval": 100,
+      "Rotate": true,
+      "Jump": true,
+      "Move": false
+    }
+  },
+  "InventoryCleaner": {
+    "enabled": false,
+    "settings": {
+      "Delay": 5,
+      "Trash Tools": true,
+      "Trash Armor": true,
+      "Sort Items": true
+    }
+  }
+}
