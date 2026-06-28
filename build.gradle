@@ -23,7 +23,7 @@ repositories {
     maven { url = "https://maven.fabricmc.net/" }
     maven { url = "https://jitpack.io/" }
     // Baritone API
-    maven { url = "https://pkgs.dev.azure.com/djtheredstoner/DevBot/_packaging/public/maven/v1" }
+//    maven { url = "https://pkgs.dev.azure.com/djtheredstoner/DevBot/_packaging/public/maven/v1" }
 }
 
 loom {
