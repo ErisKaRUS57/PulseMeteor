@@ -170,6 +170,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Credits
 
-- **Pulse Visuals** - Visual style inspiration
-- **Meteor Client** - Module system architecture
-- **FabricMC** - Mod loader framework
+Roxitwink: chief creator and scripter
